@@ -13,7 +13,7 @@ const Home = () => {
 
   const whatsappMsg = (title, quant) => {
     const textCript = encodeURI(`olá, gostaria de pedir ${quant} ${title}`);
-    const message = `https://api.whatsapp.com/send?phone=5577991572774&text=${textCript}`;
+    const message = `https://api.whatsapp.com/send?phone=5577991115142&text=${textCript}`;
 
     window.open(message);
   };
