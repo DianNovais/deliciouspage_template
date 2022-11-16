@@ -1,0 +1,32 @@
+[
+    {
+        "id": "0",
+        "title": "Pizza de mussarela",
+        "img": "https://multarte.com.br/wp-content/uploads/2019/03/pizza-png-mussarela.png"
+    },
+    {
+        "id": "1",
+        "title": "Pizza de calabreza",
+        "img": "/static/image/pizza_calabreza.png"
+    },
+    {
+        "id": "2",
+        "title": "Pizza de portuguesa",
+        "img": "/static/image/pizza_portuguesa.png"
+    },
+    {
+        "id": "3",
+        "title": "X Egg",
+        "img": "/static/image/xegg.png"
+    },
+    {
+        "id": "4",
+        "title": "X Salada",
+        "img": "/static/image/xsalada.png"
+    },
+    {
+        "id": "5",
+        "title": "X Tudo",
+        "img": "/static/image/xtudo.png"
+    }
+]
